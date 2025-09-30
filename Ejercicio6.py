@@ -1,4 +1,5 @@
-# main.py
+######## EJERCICIO 6 #######
+
 from super_heroes_data import superheroes
 
 class Nodo:
